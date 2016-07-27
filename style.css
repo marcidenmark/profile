@@ -1,0 +1,55 @@
+body {
+  background-color: #202020;
+  margin: 0 auto;
+  padding: 22px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.container{
+padding: 30px;
+width: 1700px
+}
+
+.image_margin {
+  margin: 30px 20px;
+  box-shadow: 5px 10px 20px #0DAAFF;
+}
+
+h1 {
+  font-family: 'Bungee Shade', cursive;
+  text-align: left;
+  font-size: 100px;
+  color: #ff0000 ;
+  letter-spacing: 6px;
+}
+
+h2 {
+  color: white;
+  font-size: 50px;
+  letter-spacing: 3px;
+  text-align: right;
+}
+h3 {
+  letter-spacing: 10px;
+  text-align: left;
+  text-indent: 200px;
+}
+h4 {
+  text-align: right;
+  font-family: 'Gravitas One', cursive;
+  font-size: 80px;
+  text-align:right;
+}
+
+h5 {
+  font-family: 'Bungee', cursive;
+  font-size: 50px;
+  text-align:right;
+  letter-spacing: 3px;
+}
+
+em {
+  color: #ffff0d ;
+}
+
